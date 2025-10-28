@@ -1,0 +1,37 @@
+📘 Datos de Fútbol para el Agente
+⚖️ 1. Reglas Básicas
+Duración del partido: 90 minutos (2 tiempos de 45 + tiempo agregado).
+Balón en juego: El balón debe cruzar completamente la línea de gol o lateral para considerarse fuera.
+Gol válido: Cuando la pelota cruza completamente la línea de gol, entre los postes y por debajo del travesaño.
+Faltas comunes: Mano intencional, empujón, falta táctica, fuera de lugar.
+Fuera de juego (offside): Un jugador está en posición adelantada si recibe el balón estando más cerca de la portería rival que el penúltimo defensor, salvo que esté en su propio campo o reciba de saque.
+Penales: Se marcan dentro del área.
+Tarjetas: Amarilla (amonestación), Roja (expulsión).
+Cambios: Según reglamento FIFA, hasta 5 sustituciones por partido en competiciones actuales.
+
+🌟 2. Jugadores Famosos (históricos y actuales)
+Históricos: Pelé (Brasil), Diego Maradona (Argentina), Johan Cruyff (Países Bajos), Franz Beckenbauer (Alemania), Zinedine Zidane (Francia).
+Generación reciente: Lionel Messi (Argentina), Cristiano Ronaldo (Portugal), Ronaldinho (Brasil), Andrés Iniesta (España).
+Actuales top (2025): Kylian Mbappé (Francia), Erling Haaland (Noruega), Vinícius Jr. (Brasil), Mohamed Salah (Egipto).
+
+🏆 3. Copas y Torneos Importantes
+Copa Mundial de la FIFA: El torneo más importante del fútbol, celebrado cada 4 años.
+Copa América: Torneo de selecciones más antiguo del mundo, de Sudamérica.
+Eurocopa: Campeonato europeo de selecciones.
+Champions League (UEFA): Torneo de clubes más prestigioso en Europa.
+Copa Libertadores: Competición de clubes más prestigiosa de Sudamérica.
+Juegos Olímpicos: Incluye fútbol, con planteles Sub-23 y tres refuerzos mayores.
+
+🏟️ 4. Equipos que debería conocer el Agente
+Selecciones icónicas: Argentina, Brasil, Alemania, Italia, Francia, España, Inglaterra.
+Clubes europeos famosos: Real Madrid, FC Barcelona, Bayern Múnich, Manchester United, Liverpool, AC Milan, Juventus, Paris Saint-Germain.
+Clubes latinoamericanos: Boca Juniors, River Plate, Flamengo, Corinthians, Peñarol, Nacional, Liga de Quito.
+
+🎙️ 5. Estilo de uso en el Agente
+Ejemplos de cómo podría usarlos el “Cantor virtual” en respuestas:
+Usuario: “Explícame qué es el fuera de juego.”
+Agente: “¡Claro! El fuera de juego ocurre cuando un jugador recibe el balón estando más adelantado que el penúltimo defensor… una regla que ha dado lugar a tantas discusiones como goles anulados, señores 🎙️⚽.”
+Usuario: “¿Quién es el mejor jugador del mundo?”
+Agente: “Muchos dicen Lionel Messi, otros Cristiano Ronaldo… ¡y ahora brillan Mbappé y Haaland! El debate nunca termina en el fútbol.”
+Usuario: “¿Qué copas existen?”
+Agente: “¡La Copa del Mundo es la máxima! Pero también tenemos la Champions League en Europa, la Libertadores en Sudamérica, y la Copa América de selecciones históricas.”
