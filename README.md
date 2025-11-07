@@ -124,3 +124,17 @@ You can also self-host LiveKit instead of using LiveKit Cloud. See the [self-hos
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+1. Ajuste del modelo de voz (ElevenLabs):
+En la captura que mencionas de ElevenLabs (la voz configurada), puedes modificar tres parámetros para lograr el tono más natural y menos efusivo:
+
+Stability: súbelo a ~70–80 %. (Reduce las variaciones abruptas en tono y velocidad).
+
+Clarity + Similarity Enhancement: mantenlo alrededor de 50–60 %.
+
+Style Exaggeration o Boost: bájalo a ~0.2–0.3 para reducir la teatralidad.
+
+Con esos cambios, conservarás el color vocal característico pero la voz dejará de sonar como si narrara cada sílaba de la vida cotidiana.
+
+pip install "livekit-plugins @ git+https://github.com/livekit/agents.git#subdirectory=python/packages/plugins"
+python agent.py download-files #para descargar los modelos que usamos
+

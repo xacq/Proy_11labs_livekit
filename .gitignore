@@ -6,7 +6,10 @@ __pycache__
 .idea
 KMS
 .venv
-.vscode
 *.egg-info
 .pytest_cache
 .ruff_cache
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
